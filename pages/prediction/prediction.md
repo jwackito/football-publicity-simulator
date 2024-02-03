@@ -48,6 +48,7 @@ Match length
 
 <|card|
 <center>
-<|{prob_percent:0.2f}%|> (Uncertainties provided in the subscription version :P)
+The probability of your team scoring a goal while an your ad is displayed behind the goalkeep is <b><i><|{prob_percent:0.2f}%|></i></b> for any given match of your team. 
 </center>
+<p style="text-align: center;font-style: italic; font-size: small">(Uncertainties provided in the subscription version :P)</p>
 |>
